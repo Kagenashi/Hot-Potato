@@ -1,1 +1,2 @@
 Hot Potato
+ Arduino Code for the Game "Hot-Potato". Materials: Arduino, Buzzer, 2x Led, Button (Cables and Resistor) How to Play: Press Button to start the game. A duration will be set random. A melody will be played and stops when the timer hits zero. When it hits zero a 3 sec long sound will be played, the player, who held the "Hot_Potato" at last, lost the round. The Game can be played with a KO-System. The First Led blink with the tone and the second blinks when the player should turn/change the direction.
